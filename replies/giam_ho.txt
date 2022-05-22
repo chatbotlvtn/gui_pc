@@ -1,0 +1,43 @@
+﻿*Trình tự thực hiện
+
+- Người có yêu cầu đăng ký giám hộ nộp hồ sơ tại UBND cấp xã có thẩm quyền.
+
+- Người tiếp nhận có trách nhiệm kiểm tra ngay toàn bộ hồ sơ, xác định tính hợp lệ của giấy tờ trong hồ sơ do người yêu cầu nộp, xuất trình; đối chiếu thông tin trong Tờ khai với giấy tờ trong hồ sơ.
+
+- Nếu hồ sơ đầy đủ, hợp lệ, người tiếp nhận hồ sơ viết giấy tiếp nhận, trong đó ghi rõ ngày, giờ trả kết quả; nếu hồ sơ chưa đầy đủ, hoàn thiện thì hướng dẫn người nộp hồ sơ bổ sung, hoàn thiện theo quy định; trường hợp không thể bổ sung, hoàn thiện hồ sơ ngay thì phải lập thành văn bản hướng dẫn, trong đó nêu rõ loại giấy tờ, nội dung cần bổ sung, hoàn thiện, ký, ghi rõ họ, tên của người tiếp nhận.
+
+- Sau khi nhận đủ hồ sơ, nếu thấy yêu cầu đăng ký giám hộ đủ điều kiện theo quy định pháp luật thì công chức tư pháp - hộ tịch báo cáo Chủ tịch UBND cấp xã.
+
+Trường hợp Chủ tịch UBND cấp xã đồng ý giải quyết thì công chức tư pháp - hộ tịch ghi vào Sổ đăng ký giám hộ, hướng dẫn người yêu cầu đăng ký hộ tịch kiểm tra nội dung Trích lục đăng ký giám hộ và Sổ đăng ký giám hộ, cùng người đi đăng ký giám hộ ký vào Sổ. Chủ tịch UBND cấp xã cấp Trích lục đăng ký giám hộ cho người yêu cầu.
+
+Cách thức thực hiện
+
+- Người có yêu cầu đăng ký giám hộ trực tiếp thực hiện hoặc ủy quyền cho người khác thực hiện việc đăng ký giám hộ;
+
+- Người thực hiện việc đăng ký giám hộ có thể trực tiếp nộp hồ sơ tại UBND cấp xã có thẩm quyền hoặc gửi hồ sơ qua hệ thống bưu chính hoặc gửi hồ sơ theo hệ thống đăng ký hộ tịch trực tuyến.
+
+Thành phần hồ sơ
+
+*Giấy tờ phải xuất trình:
+
+- Hộ chiếu hoặc chứng minh nhân dân hoặc thẻ căn cước công dân hoặc các giấy tờ khác có dán ảnh và thông tin cá nhân do cơ quan có thẩm quyền cấp, còn giá trị sử dụng để chứng minh về nhân thân của người có yêu cầu đăng ký giám hộ.
+
+- Giấy tờ chứng minh nơi cư trú để xác định thẩm quyền đăng ký giám hộ (trong giai đoạn chuyển tiếp).
+
+*Giấy tờ phải nộp
+
+- Tờ khai đăng ký giám hộ theo mẫu.
+
+- Văn bản cử người giám hộ theo quy định của Bộ luật dân sự đối với trường hợp đăng ký giám hộ cử.
+
+- Giấy tờ chứng minh điều kiện giám hộ đương nhiên theo quy định của Bộ luật dân sự đối với trường hợp đăng ký giám hộ đương nhiên. Trường hợp có nhiều người cùng đủ điều kiện làm giám hộ đương nhiên thì nộp thêm văn bản thỏa thuận về việc cử một người làm giám hộ đương nhiên.
+
+- Văn bản ủy quyền theo quy định của pháp luật trong trường hợp ủy quyền thực hiện việc đăng ký giám hộ. Trường hợp người được ủy quyền là ông, bà, cha, mẹ, con, vợ, chồng, anh, chị, em ruột của người ủy quyền thì văn bản ủy quyền không phải chứng thực.
+
+*Lưu ý: Đối với giấy tờ nộp, xuất trình:
+
+- Trường hợp người yêu cầu nộp giấy tờ là bản sao được cấp từ sổ gốc hoặc bản sao được chứng thực từ bản chính thì người tiếp nhận hồ sơ không được yêu cầu xuất trình bản chính; nếu người yêu cầu chỉ nộp bản chụp và xuất trình bản chính thì người tiếp nhận hồ sơ kiểm tra, đối chiếu bản chụp với bản chính và ký vào bản chụp xác nhận về việc đã đối chiếu nội dung giấy tờ đó, không được yêu cầu người đi đăng ký nộp bản sao giấy tờ đó.
+
+- Đối với giấy tờ xuất trình khi đăng ký hộ tịch, người tiếp nhận có trách nhiệm kiểm tra, đối chiếu với thông tin trong tờ khai, chụp lại hoặc ghi lại thông tin để lưu trong hồ sơ và trả lại cho người xuất trình, không được yêu cầu nộp bản sao hoặc bản chụp giấy tờ đó.
+
+- Người tiếp nhận có trách nhiệm tiếp nhận đúng, đủ hồ sơ đăng ký hộ tịch theo quy định của pháp luật hộ tịch, không được yêu cầu người đăng ký hộ tịch nộp thêm giấy tờ mà pháp luật hộ tịch không quy định phải nộp.
